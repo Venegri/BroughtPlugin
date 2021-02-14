@@ -1,0 +1,11 @@
+name: BroughtPlugin
+version: A0.1
+main: org.broughtmiracles.kiwi.KiwiMain
+
+commands:
+  helpme:
+    description: mygui
+    usage: /gui
+  balance:
+    description: balance at database
+    usage: /balance
